@@ -54,7 +54,7 @@ flex: 1 1 auto;
 
 .button {
     text-transform: uppercase;
-    display: inline-flex;
+    display:flex;
     align-items: center;
     padding-inline: 14px;
     padding-block: 16px;
