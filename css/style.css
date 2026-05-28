@@ -63,7 +63,6 @@ flex: 1 1 auto;
     font-weight: 600;
     gap: 11px;
     transition: .4s;
-	min-width:220px;
 }
 .button:hover{
     box-shadow: 1px 0px 5px #d6e405ee;
@@ -620,7 +619,7 @@ background-position:top center;
 
 @media (min-width:1920px) {
 	.button span{
-		display:block;
+		display:none;
 	}
 }
 
@@ -767,8 +766,8 @@ background-position:top center;
     }
     .button{
         font-size: 17px;
-        padding-inline: 12px;
-        padding-block: 8px;
+        padding-inline: 8px;
+        padding-block: 6px;
     }
     .button span{
        flex-basis: 35px;
