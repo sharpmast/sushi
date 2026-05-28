@@ -767,8 +767,8 @@ background-position:top center;
     }
     .button{
         font-size: 17px;
-        padding-inline: 8px;
-        padding-block: 4px;
+        padding-inline: 12px;
+        padding-block: 8px;
     }
     .button span{
        flex-basis: 35px;
